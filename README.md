@@ -26,3 +26,6 @@ ile ilgili yürüttüğü işlevlerin modül bazlı otomasyonu.
 
 ###### * Ana Ekran
 ![Ana Ekran](https://github.com/sadumankucuk/Stok-Takip-Otomasyon/blob/master/images/stoktakip_mdi.JPG)
+
+Geliştiriciler: 
+[Fatma Kaya](https://github.com/FatmaKaya),[Şaduman Küçük](https://github.com/sadumankucuk)
